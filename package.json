@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.16.2",
     "lodash": "^4.17.4",
-    "ovrui": "~1.4.0",
+    "ovrui": "~1.4.1",
     "react": "~15.4.1",
     "react-dom": "^16.0.0",
     "react-native": "~0.42.0",
