@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/bitcoin-vr/bitcoin-vr)
+
 ## Introduction
 Bitcoin-VR experimental project to use Facebook's [React-VR Library](https://facebook.github.io/react-vr/) to visualize Bitcoin (Core) transactions in real time. This is an open source project and all contributions are welcome.
 
